@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.next/
+.env
+.env.local
+
+# Generated test files
+backend/*-report.pdf
+backend/direct-test.pdf
+backend/explicit-ai-test.pdf
+backend/test-report.pdf
+backend/test-report-2.pdf
+backend/test-report-3.pdf
